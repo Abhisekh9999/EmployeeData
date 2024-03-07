@@ -1,0 +1,27 @@
+{
+    "homepage": "https://Abhisekh9999.github.io/EmployeeData",
+    "employees": [
+      {
+        "id": 1,
+        "name": "John Doe",
+        "email": "john.doe@example.com",
+        "position": "Software Engineer",
+        "department": "Development"
+      },
+      {
+        "id": 2,
+        "name": "Jane Smith",
+        "email": "jane.smith@example.com",
+        "position": "Project Manager",
+        "department": "Marketing"
+      },
+      {
+        "id": 3,
+        "name": "Emma Johnson",
+        "email": "emma.johnson@example.com",
+        "position": "UI/UX Designer",
+        "department": "Design"
+      }
+    ]
+  }
+  
